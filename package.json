@@ -2,7 +2,7 @@
   "name": "jscy",
   "version": "1.0.0",
   "main": "jscy.min.js",
-  "description": "javascript工具库",
+  "description": "轻量的 javascript 工具库",
   "keywords": [
     "javascript",
     "javascript工具库"
