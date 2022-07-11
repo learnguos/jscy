@@ -1,6 +1,6 @@
 ## Jscy
 
-[<img src="https://img.shields.io/badge/npm-v1.0.0-important?color=rgb(255,255,255)" style="zoom:130%;" />](https://github.com/learnguos/jscy)   [<img src="https://data.jsdelivr.com/v1/package/npm/learnguos-toolkit/badge" style="zoom:130%;" />](https://www.jsdelivr.com/package/npm/jscy)   
+[<img src="https://img.shields.io/badge/npm-v1.0.0-important?color=rgb(255,86,39)" style="zoom:130%;" />](https://github.com/learnguos/jscy)   [<img src="https://data.jsdelivr.com/v1/package/npm/learnguos-toolkit/badge" style="zoom:130%;" />](https://www.jsdelivr.com/package/npm/jscy)   
 
 [<img src="https://packagephobia.com/badge?p=jscy" alt="install size" style="zoom:130%;" />](https://packagephobia.com/result?p=jscy)   [<img src="https://img.shields.io/badge/QQ%E4%BA%A4%E6%B5%81%E7%BE%A4-761530245-blue" style="zoom:130%;" />](https://imgtu.com/i/XuTQ5d)   
 
