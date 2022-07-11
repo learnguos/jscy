@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script type="module">
+      // 1.导入jscyStore存储数据函数
+      import { jscyStore } from '../jscy.min.js'
+
+      // 2.定义要存储的数据
+      let yy = [234, 23434, 2343243, 23423]
+
+      // 3.使用jscyStore函数实现本地存储数据
+      jscyStore('本地存储名字', yy)
+    </script>
+  </head>
+  <body></body>
+</html>

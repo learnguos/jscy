@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script type="module">
+      // 1.导入jscyStore存储数据函数, jscyExtract获取数据函数
+      import { jscyStore, jscyExtract } from '../jscy.min.js'
+
+      // 2.定义要存储的数据
+      let yy = [234, 23434, 2343243, 23423]
+
+      // 3.使用jscyStore函数存储数据
+      jscyStore('本地存储名字', yy)
+
+      // 4.使用jscyExtract函数获取数据
+      console.log(jscyExtract('本地存储名字'))
+    </script>
+  </head>
+  <body></body>
+</html>
